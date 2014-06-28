@@ -8,6 +8,4 @@ Ever wanted to overload a function, based on type? Now you can!
 But seriously, don't use this.
 
 Things to do:
-
- - get it working with classes
  - tests!
